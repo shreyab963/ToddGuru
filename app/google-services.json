@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479250666135",
+    "firebase_url": "https://toddler-teacher-f8a4d-default-rtdb.firebaseio.com",
+    "project_id": "toddler-teacher-f8a4d",
+    "storage_bucket": "toddler-teacher-f8a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479250666135:android:367097746133a3770e0fd2",
+        "android_client_info": {
+          "package_name": "com.example.toddlerteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479250666135-7vinois8687vduanc5n7h6q22chjfgl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj7a3wk89DE-EnU7H68N_urm4yPSf6Kl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479250666135-7vinois8687vduanc5n7h6q22chjfgl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
